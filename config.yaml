@@ -1,9 +1,9 @@
 clear_output: true
 force_cpu: false
-max_threads: 3
+max_threads: 6
 memory_limit: 0
-output_image_format: png
-output_template: '{file}_{time}'
+output_image_format: jpg
+output_template: '{file}'
 output_video_codec: libx264
 output_video_format: mp4
 provider: cuda
