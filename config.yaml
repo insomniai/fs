@@ -1,6 +1,6 @@
 clear_output: true
 force_cpu: false
-max_threads: 6
+max_threads: 8
 memory_limit: 0
 output_image_format: jpg
 output_template: '{file}'
